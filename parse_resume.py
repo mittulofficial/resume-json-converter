@@ -5,7 +5,7 @@ def parse_resume_to_json(resume_text):
     resume_json = {
         "personal_information": {
             "name": "Mittul Kumar",
-            "contact_info": "+916206775218",
+            "contact_info": "+91xxxxxxxx90",
             "linkedin": "https://www.linkedin.com/in/mittul-kumar-4169b8152/",
             "github": "https://github.com/mittulofficial"
         },
@@ -59,7 +59,7 @@ def parse_resume_to_json(resume_text):
 
 resume_text = """Personal Information:
 Name: Mittul Kumar
-Contact Info: +916206775218
+Contact Info: +91xxxxxxxx90
 LinkedIn Profile: https://www.linkedin.com/in/mittul-kumar-4169b8152/
 GitHub Profile: https://github.com/mittulofficial
 
