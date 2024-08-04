@@ -39,36 +39,52 @@ Ensure you have Python installed. The script does not require any external libra
 
 
 #Example
-Here is an example of how the resume content should be formatted:
 Personal Information:
 
-Name: John Doe
-Contact Info: john.doe@example.com
-LinkedIn Profile: https://linkedin.com/in/johndoe
-GitHub Profile: https://github.com/johndoe
-
+Name: Mittul Kumar
+Contact Info: +91xxxxxxxx90
+LinkedIn Profile: https://www.linkedin.com/in/mittul-kumar-4169b8152/
+GitHub Profile: https://github.com/mittulofficial
 Summary:
-Experienced software engineer with a passion for developing innovative programs...
+
+Experienced software engineer with expertise in Flutter, React, and data science projects. Skilled in creating and managing software solutions from concept to deployment.
 
 Skills:
-Python, JavaScript, React, Node.js
 
+C++
+Java
+JavaScript
+Python
+Angular
+React JS
+Node JS
+Git
+GitHub
+Ubuntu
+MongoDB
+Tailwind CSS
+Data Structures and Algorithms
+Problem-Solving
+Responsive Web Design
+Scripting in Python and JavaScript
 Experience:
+
 Job Title: Software Engineer
 Company: Tech Corp
 Location: San Francisco, CA
 Duration: Jan 2020 - Present
-Responsibilities: Developed web applications, Collaborated with cross-functional teams
-
+Responsibilities:
+Developed web applications
+Collaborated with cross-functional teams
 Education:
+
 Degree: Bachelor of Science in Computer Science
 Institution: XYZ University
 Graduation Year: 2019
-
 Projects:
+
 Project Title: Portfolio Website
 Description: A personal website showcasing projects and skills.
 Technologies: HTML, CSS, JavaScript
-Link: https://github.com/johndoe/portfolio
-
+[Link: ] (https://github.com/mittulofficial/resume-json-converter)
 
